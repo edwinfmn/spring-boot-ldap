@@ -10,7 +10,6 @@ import org.hibernate.validator.constraints.NotBlank;
 
 /**
  *
- * @author addico
  */
 public class LoginForm {
     

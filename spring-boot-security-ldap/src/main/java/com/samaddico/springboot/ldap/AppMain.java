@@ -13,7 +13,6 @@ import org.springframework.context.ApplicationContext;
 
 /**
  *
- * @author addico
  */
 @SpringBootApplication
 public class AppMain extends SpringBootServletInitializer {
